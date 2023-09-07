@@ -23,4 +23,4 @@ I'm enthusiastic about deep learning and AI. Here are some of the languages, too
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mohamedazizmahmoud@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-0077B5?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Mo_Azizz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-483321217/)
-[![Youtube](https://img.shields.io/badge/-Youtube-0077B5?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/@mohamedaziz3525?si=hvDV9h1FN_BNmdLW)
+[![Youtube](https://img.shields.io/badge/-Youtube-D14836?style=flat-square&logo=Youtube&logoColor=red)](https://youtube.com/@mohamedaziz3525?si=hvDV9h1FN_BNmdLW)
