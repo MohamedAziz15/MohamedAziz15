@@ -16,7 +16,7 @@ I'm enthusiastic about deep learning and AI. Here are some of the languages, too
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![sympy](https://img.shields.io/badge/-sympy-44A833?style=flat-square&logo=sympy&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-44A833?style=flat-square&logo=Django&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-2AAA8A?style=flat-square&logo=Django&logoColor=white)
 
 
 ### Connect with me
